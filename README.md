@@ -11,9 +11,13 @@ Continuous Chat: Implementing conversational AI with conversation history, allow
 Technologies Used
 
 Python
+
 Ollama
+
 Llama 3.2 3B
+
 Jupyter Notebook
+
 Requests
 
 
